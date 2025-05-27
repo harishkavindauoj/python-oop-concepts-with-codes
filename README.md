@@ -38,11 +38,13 @@ This notebook covers the **4 main pillars of OOP**:
 
 ## 🚀 How to Use This Notebook
 
-1. Open the notebook in **Google Colab** from your Gist or Google Drive.
+1. Open the notebook in **Google Colab**.
 2. Or download and run it locally with:
 
    ```bash
    jupyter notebook Python_OOP_Concepts.ipynb
+
+---
 
 ## 🙌 Who Is This For?
 
